@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Web Developer
 ------------------------
 
-I've been programming since 2020 and have more than three years of experience in front-end web development. Now, I'm going to focus on the back-end, too, so I can be a Full-Stack Web Developer.
+I've been programming since 2020 and have more than three years of work experience in front-end web development. Now, I'm going to focus on the back-end, too, so I can be a Full-Stack Web Developer.
 
 * 🌍  I'm based in somewhere in Earth
 * ✉️  You can contact me at [pajardsaputra@pm.me](mailto:pajardsaputra@pm.me)
