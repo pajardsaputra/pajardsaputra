@@ -6,7 +6,7 @@ Full-Stack Web Developer
 
 I've been programming since 2020 and have more than three years of work experience in front-end web development. Now, I'm going to focus on the back-end, too, so I can be a Full-Stack Web Developer.
 
-* 🌍  I'm based in somewhere in Earth
+* 🌍  I'm based in somewhere on Earth
 * ✉️  You can contact me at [pajardsaputra@pm.me](mailto:pajardsaputra@pm.me)
 * 🧠  I'm learning Backend (Golang and MongoDB)
 * 🤝  I'm open to collaborating on any web development project
